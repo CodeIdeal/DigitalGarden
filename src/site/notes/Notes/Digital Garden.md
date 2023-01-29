@@ -11,7 +11,7 @@ Find me on `ris:Github`[Github](https://github.com/codeideal), `ris:Twitter`[T
 iframe test
 <iframe width="200" scrolling="no" height="50" frameborder="0" allowtransparency="true" src="https://i.tianqi.com/?c=code&id=34" fontStyle></iframe>
 
-| File                                        | 修改时间             | 创建时间             |
-| ------------------------------------------- | ---------------- | ---------------- |
-| [[Notes/Digital Garden\|Digital Garden]] | January 19, 2023 | January 13, 2023 |
-| [[Notes/记一次Manjaro滚挂事件\|记一次Manjaro滚挂事件]] | January 14, 2023 | January 14, 2023 |
+| 标题                                          | 修改时间       | 创建时间       |
+| ------------------------------------------- | ---------- | ---------- |
+| [[Notes/Digital Garden\|Digital Garden]] | 2023-01-29 | 2023-01-13 |
+| [[Notes/记一次Manjaro滚挂事件\|记一次Manjaro滚挂事件]] | 2023-01-14 | 2023-01-14 |
