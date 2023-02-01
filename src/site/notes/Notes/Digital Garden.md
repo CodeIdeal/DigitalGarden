@@ -11,8 +11,9 @@ Find me on `ris:Github`[Github](https://github.com/codeideal), `ris:Twitter`[T
 iframe test
 <iframe width="200" scrolling="no" height="50" frameborder="0" allowtransparency="true" src="https://i.tianqi.com/?c=code&id=34" fontStyle></iframe>
 
-| 标题                                          | 修改时间       | 创建时间       |
-| ------------------------------------------- | ---------- | ---------- |
-| [[Notes/Digital Garden\|Digital Garden]] | 2023-01-29 | 2023-01-13 |
-| [[Notes/不用记各种文件格式的解压脚本\|不用记各种文件格式的解压脚本]] | 2023-01-29 | 2023-01-19 |
-| [[Notes/记一次Manjaro滚挂事件\|记一次Manjaro滚挂事件]] | 2023-01-14 | 2023-01-14 |
+| 标题                                                            | 修改时间       | 创建时间       |
+| ------------------------------------------------------------- | ---------- | ---------- |
+| [[Notes/记一次Manjaro滚挂事件\|记一次Manjaro滚挂事件]]                   | 2023-02-01 | 2023-01-14 |
+| [[Notes/在Chromium内核的浏览器中开启多线程下载\|在Chromium内核的浏览器中开启多线程下载]] | 2023-02-01 | 2023-02-01 |
+| [[Notes/Digital Garden\|Digital Garden]]                   | 2023-01-29 | 2023-01-13 |
+| [[Notes/不用记各种文件格式的解压脚本\|不用记各种文件格式的解压脚本]]                   | 2023-01-29 | 2023-01-19 |
